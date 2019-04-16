@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/eric/EricTest.unity
+  isLoaded: 1
+  isActive: 1
