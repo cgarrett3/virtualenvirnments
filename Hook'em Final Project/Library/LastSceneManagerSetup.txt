@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/eric/EricTest.unity
+- path: Assets/simple bar/Scenes/Bar Restuarant Scene.unity
   isLoaded: 1
   isActive: 1
