@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{2FD251C4-7236-EDF5-F143-075352B94754}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/EditorPathScript.cs">
+    <Files>
+      <File FileName="Assets/Scripts/EditorPathScript.cs" Line="32" Column="55" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Hook'em Final Project" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="EditorPathScript.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="deaa745e-55e0-4acc-828c-ba8052a62a31" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
