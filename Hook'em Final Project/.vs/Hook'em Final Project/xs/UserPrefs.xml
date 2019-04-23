@@ -4,7 +4,9 @@
       <File FileName="Assets/Scripts/EditorPathScript.cs" Line="32" Column="55" />
       <File FileName="Assets/Scripts/MoveOnPathScript.cs" Line="11" Column="38" />
       <File FileName="Assets/Scripts/GetPath.cs" Line="14" Column="48" />
-      <File FileName="Assets/Scripts/NavAgentScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/NavAgentScript.cs" Line="11" Column="16" />
+      <File FileName="Assets/Scripts/AgentTrigger.cs" Line="7" Column="30" />
+      <File FileName="Assets/Scripts/AgentAnimatorController.cs" Line="22" Column="60" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -22,9 +24,11 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b86deb79-6212-4ee8-98b1-8c944a19af85" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="bbdfdf47-fae4-46e4-882f-0ebf7c4c70b1" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/lenachu/Documents/GitHub/virtualenvirnments-master/Hook'em Final Project/Hook'em Final Project/Assets/Scripts/AgentWander.cs" relfile="Assets/Scripts/AgentWander.cs" line="35" column="39" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
